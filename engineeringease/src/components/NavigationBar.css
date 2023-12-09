@@ -1,0 +1,17 @@
+.nav-link-custom{
+    /* Add your custom styles for Register and Login links */
+    color:tomato; /* Change the color as needed */
+    font-weight: bold;
+    font-size:20px;
+  
+  }
+  
+  .search-input {
+    /* Add your custom styles for the search input */
+    border-radius: 5px; /* Add any other styles you need */
+  }
+  
+  .search-button {
+    /* Add your custom styles for the search button */
+    margin-left: 15px; /* Add any other styles you need */
+  }
