@@ -1,0 +1,11 @@
+ git init
+  139  git status
+  140  git add .
+  141  git commit -m "first commit"
+  142  git status
+  143  git branch
+  144  git branch -M main
+  145  git status
+  146  git remote add origin https://github.com/vrushalib6/cdac_miniproject.git
+  147  git remote -v
+  148  git push origin main
